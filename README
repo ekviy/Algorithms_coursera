@@ -1,0 +1,12 @@
+Dynamic connectivity: 
+====================
+
+Given a set of N objects.
+
+Union command: connect two object. union(2, 0)
+
+Find/connected query: is there a path between the two objects
+
+
+
+
